@@ -6,7 +6,6 @@ This project is forked and modified from [Mukesh Solanki](https://www.github.com
 <p align="center">
   <a href="https://jitpack.io/#MasoomBadi/OTP-VIew"> <img src="https://jitpack.io/v/MasoomBadi/OTP-VIew/month.svg" /></a>
   <a href="https://jitpack.io/#MasoomBadi/OTP-VIew"> <img src="https://jitpack.io/v/MasoomBadi/OTP-VIew.svg" /></a>
-  <a href="https://github.com/MasoomBadi/OTP-VIew/actions"> <img src="https://github.com/MasoomBadi/OTP-VIew/workflows/Build/badge.svg" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
   <br /><br />
     A custom control to enter a code usually in cases of authentication.
