@@ -8,7 +8,6 @@ This project is forked and modified from [Mukesh Solanki](https://www.github.com
   <a href="https://jitpack.io/#MasoomBadi/OTP-VIew"> <img src="https://jitpack.io/v/MasoomBadi/OTP-VIew.svg" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
   <br /><br />
-    A custom control to enter a code usually in cases of authentication.
 </p>
 
 ## How to integrate into your app?
